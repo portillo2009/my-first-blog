@@ -1,0 +1,30 @@
+Objetos (entidadaes):
+
+Gato (animal)
+- Pelo
+- bigotes garras
+- patas x 4
+- orejas puntiagudas
+- color del pelaje
+- pupilas en vertical
+
+* maulla ()
+* olfatear ()
+
+
+Perro (animal)
+- Pelo
+- bigotes garras
+- patas x 4
+- orejas 
+	- puntiagudas
+	sin orejas
+	mutiladps
+	largas
+- color del pelaje
+
+* ladrar
+* olfatear
+* caminar 
+* comree 
+* dormir
